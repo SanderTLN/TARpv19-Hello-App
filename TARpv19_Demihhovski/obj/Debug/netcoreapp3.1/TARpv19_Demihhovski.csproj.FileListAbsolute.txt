@@ -1,0 +1,13 @@
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.exe
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.deps.json
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.runtimeconfig.json
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.runtimeconfig.dev.json
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.dll
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\bin\Debug\netcoreapp3.1\TARpv19_Demihhovski.pdb
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.csprojAssemblyReference.cache
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.csproj.CoreCompileInputs.cache
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.AssemblyInfoInputs.cache
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.AssemblyInfo.cs
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.dll
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.pdb
+C:\Users\Sander\source\repos\TARpv19_Demihhovski\TARpv19_Demihhovski\obj\Debug\netcoreapp3.1\TARpv19_Demihhovski.genruntimeconfig.cache
